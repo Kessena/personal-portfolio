@@ -1,0 +1,64 @@
+body::before {
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+/*Navigation Menu*/
+#navbar {
+    background-color: #fae1f9;
+}
+
+.nav-link {
+    color: #3d0226;
+}
+
+.navbar-myname {
+    text-decoration: none;
+    color: #3d0226;
+}
+
+#burger-menu {
+    color: #3d0226;
+}
+
+/*Boxes*/
+#boxes-section {
+    color: #4d0227;
+}
+
+/*Interesting Fact*/
+#hidden-figures-fact {
+    background-color: #fae1f9;
+    color: #4d0227;
+    font-size: 20px;
+}
+
+.scientist-name {
+    font-weight: 700;
+}
+
+.fortran {
+    font-weight: 700;
+}
+
+/*Footer*/
+#footer {
+    background-color: #0f000a;
+}
+
+#linkedin {
+    color: #fae1f9;
+}
+
+#github {
+    color: #fae1f9;
+}
+
+#footer-arrow {
+    color: #fae1f9;
+}

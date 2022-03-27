@@ -1,0 +1,90 @@
+body::before {
+    display: block;
+    content: '';
+    height: 20px;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+/*Navigation Menu*/
+#navbar {
+    background-color: #fae1f9;
+}
+
+.nav-link {
+    color: #3d0226;
+}
+
+.navbar-myname {
+    text-decoration: none;
+    color: #3d0226;
+}
+
+#burger-menu {
+    color: #3d0226;
+}
+
+/*Welcome*/
+#welcome-section {
+    color: #4d0227;
+}
+
+#selfie {
+    width: 25%;
+    border: 5px solid #4d0227;
+    border-radius: 50%;
+}
+
+#carousel-section {
+    background-color: #fbc3d9;
+    color: #4d0227;
+}
+
+#project-btn {
+    background-color: #4d0227;
+    color: #fae1f9;
+}
+
+#about-me-btn {
+    background-color: #4d0227;
+    color: #fae1f9;
+}
+
+#contact-btn {
+    background-color: #4d0227;
+    color: #fae1f9;
+}
+
+.carousel-control-prev-icon {
+    background-color: #0f000a;
+}
+
+.carousel-control-next-icon {
+    background-color: #0f000a;
+}
+
+/*Quote*/
+#quote-section {
+    background-color: #fae1f9;
+    color: #4d0227;
+    font-size: 20px;
+}
+
+/*Footer*/
+#footer {
+    background-color: #0f000a;
+}
+
+#linkedin {
+    color: #fae1f9;
+}
+
+#github {
+    color: #fae1f9;
+}
+
+#footer-arrow {
+    color: #fae1f9;
+}
